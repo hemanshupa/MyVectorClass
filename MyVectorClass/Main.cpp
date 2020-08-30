@@ -1,7 +1,6 @@
 #include<iostream>
 #include<string>
 
-//#include "Array.h"
 #include "Vector.h"
 
 
@@ -83,9 +82,6 @@ void printVector(const Vector<Vector3>& vector)
 
 int main()
 {
-   //Array<std::string, 2> data;
-   //data[0] = "Hemanshu";
-   //data[1] = "C++";
 
    {
       Vector<Vector3> vector;
